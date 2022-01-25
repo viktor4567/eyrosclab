@@ -1,1 +1,1 @@
-# eyrosclab
+# eyrosclab - учебный проект.
